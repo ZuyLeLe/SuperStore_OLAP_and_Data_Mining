@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D99EE873-B298-40CC-82D7-C0490C50BAF1}|Superstore_SSAS\\Superstore_SSAS.dwproj|C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Superstore.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D99EE873-B298-40CC-82D7-C0490C50BAF1}|Superstore_SSAS\\Superstore_SSAS.dwproj|solutionrelative:Superstore_SSAS\\Superstore.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99EE873-B298-40CC-82D7-C0490C50BAF1}|Superstore_SSAS\\Superstore_SSAS.dwproj|C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D99EE873-B298-40CC-82D7-C0490C50BAF1}|Superstore_SSAS\\Superstore_SSAS.dwproj|solutionrelative:Superstore_SSAS\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99EE873-B298-40CC-82D7-C0490C50BAF1}|Superstore_SSAS\\Superstore_SSAS.dwproj|C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Order.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D99EE873-B298-40CC-82D7-C0490C50BAF1}|Superstore_SSAS\\Superstore_SSAS.dwproj|solutionrelative:Superstore_SSAS\\Dim Order.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99EE873-B298-40CC-82D7-C0490C50BAF1}|Superstore_SSAS\\Superstore_SSAS.dwproj|C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D99EE873-B298-40CC-82D7-C0490C50BAF1}|Superstore_SSAS\\Superstore_SSAS.dwproj|solutionrelative:Superstore_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99EE873-B298-40CC-82D7-C0490C50BAF1}|Superstore_SSAS\\Superstore_SSAS.dwproj|C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D99EE873-B298-40CC-82D7-C0490C50BAF1}|Superstore_SSAS\\Superstore_SSAS.dwproj|solutionrelative:Superstore_SSAS\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Location.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Location.dim",
+              "RelativeDocumentMoniker": "Superstore_SSAS\\Dim Location.dim",
+              "ToolTip": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Location.dim [Design]",
+              "RelativeToolTip": "Superstore_SSAS\\Dim Location.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T05:37:50.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Order.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Order.dim",
+              "RelativeDocumentMoniker": "Superstore_SSAS\\Dim Order.dim",
+              "ToolTip": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Order.dim [Design]",
+              "RelativeToolTip": "Superstore_SSAS\\Dim Order.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T05:37:31.976Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Superstore_SSAS\\Dim Customer.dim",
+              "ToolTip": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Superstore_SSAS\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T05:37:28.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Superstore_SSAS\\Dim Product.dim",
+              "ToolTip": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Dim Product.dim [Design]",
+              "RelativeToolTip": "Superstore_SSAS\\Dim Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T05:37:10.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Superstore.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Superstore.cube",
+              "RelativeDocumentMoniker": "Superstore_SSAS\\Superstore.cube",
+              "ToolTip": "C:\\Users\\Zuylele\\Documents\\OLAP\\Superstore_SSAS\\Superstore_SSAS\\Superstore.cube [Design]",
+              "RelativeToolTip": "Superstore_SSAS\\Superstore.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T05:37:08.088Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
